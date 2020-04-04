@@ -1,0 +1,32 @@
+[2019-07-31 15:44:55,196] [my_app_main log_ttt.py:27:app_main] CRITICAL: a critical level log
+[2019-07-31 15:44:55,196] [my_app_main log_ttt.py:28:app_main] ERROR: an error level log
+[2019-07-31 15:44:55,197] [my_app_main log_ttt.py:29:app_main] WARNING: a warning level log
+[2019-07-31 15:44:55,197] [my_app_main log_ttt.py:30:app_main] INFO: an info level log
+[2019-07-31 15:44:55,197] [my_app_main log_ttt.py:8:app_main_sub] CRITICAL: a critical level log in app_main_sub
+[2019-07-31 15:44:55,197] [my_app_main log_ttt.py:9:app_main_sub] ERROR: an error level log in app_main_sub
+[2019-07-31 15:44:55,197] [my_app_main log_ttt.py:10:app_main_sub] WARNING: a warning level log in app_main_sub
+[2019-07-31 15:44:55,197] [my_app_main log_ttt.py:11:app_main_sub] INFO: an info level log in app_main_sub
+[2019-07-31 15:46:50,060] [my_app_main log_ttt.py:24:app_main] CRITICAL: a critical level log
+[2019-07-31 15:46:50,060] [my_app_main log_ttt.py:25:app_main] ERROR: an error level log
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:26:app_main] WARNING: a warning level log
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:27:app_main] INFO: an info level log
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:7:app_main_sub] CRITICAL: a critical level log in app_main_sub:arg=1
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:8:app_main_sub] ERROR: an error level log in app_main_sub:arg=1
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:9:app_main_sub] WARNING: a warning level log in app_main_sub:arg=1
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:10:app_main_sub] INFO: an info level log in app_main_sub:arg=1
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:7:app_main_sub] CRITICAL: a critical level log in app_main_sub:arg=2
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:8:app_main_sub] ERROR: an error level log in app_main_sub:arg=2
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:9:app_main_sub] WARNING: a warning level log in app_main_sub:arg=2
+[2019-07-31 15:46:50,061] [my_app_main log_ttt.py:10:app_main_sub] INFO: an info level log in app_main_sub:arg=2
+[2019-07-31 15:47:50,436] [my_app_main log_ttt.py:26:app_main] CRITICAL: a critical level log
+[2019-07-31 15:47:50,437] [my_app_main log_ttt.py:27:app_main] ERROR: an error level log
+[2019-07-31 15:47:50,437] [my_app_main log_ttt.py:28:app_main] WARNING: a warning level log
+[2019-07-31 15:47:50,437] [my_app_main log_ttt.py:29:app_main] INFO: an info level log
+[2019-07-31 15:47:50,437] [my_app_main log_ttt.py:9:app_main_sub] CRITICAL: a critical level log in app_main_sub:arg=1
+[2019-07-31 15:47:50,437] [my_app_main log_ttt.py:10:app_main_sub] ERROR: an error level log in app_main_sub:arg=1
+[2019-07-31 15:47:50,437] [my_app_main log_ttt.py:11:app_main_sub] WARNING: a warning level log in app_main_sub:arg=1
+[2019-07-31 15:47:50,437] [my_app_main log_ttt.py:12:app_main_sub] INFO: an info level log in app_main_sub:arg=1
+[2019-07-31 15:47:50,438] [my_app_main log_ttt.py:9:app_main_sub] CRITICAL: a critical level log in app_main_sub:arg=2
+[2019-07-31 15:47:50,438] [my_app_main log_ttt.py:10:app_main_sub] ERROR: an error level log in app_main_sub:arg=2
+[2019-07-31 15:47:50,438] [my_app_main log_ttt.py:11:app_main_sub] WARNING: a warning level log in app_main_sub:arg=2
+[2019-07-31 15:47:50,438] [my_app_main log_ttt.py:12:app_main_sub] INFO: an info level log in app_main_sub:arg=2

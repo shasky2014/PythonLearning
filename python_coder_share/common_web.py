@@ -1,0 +1,5 @@
+url_1 = 'https://www.python.org/'
+url_2 = 'https://pypi.org/'
+url_3 = 'https://docs.python.org/3.6/tutorial/index.html'
+url_4 = 'https://www.jetbrains.com/'
+url_5 = 'https://www.liaoxuefeng.com/wiki/1016959663602400'
