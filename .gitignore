@@ -1,0 +1,26 @@
+#Mac
+.DS_Store
+trec06c/
+kmeansdemo/
+venv
+.idea
+conf
+conf*
+*conf
+odpsInit.py
+*.xlsx
+*.txt
+*.csv
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
