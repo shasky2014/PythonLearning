@@ -17,7 +17,7 @@ send_to = ['wangchenchen@babyfs.cn']  # 接收邮件
 # 第三方 SMTP 服务
 mail_host="smtp.qiye.163.com"  #设置服务器
 mail_user="wangchenchen@babyfs.cn"    #用户名
-mail_pass="Shasky2017"   #口令
+mail_pass="*******"   #口令
 
 
 mail_msg = "======  massage  ======"
