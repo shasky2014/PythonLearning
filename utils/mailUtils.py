@@ -98,7 +98,7 @@ if __name__ == '__main__':
         # 发送者信息，登录验证
         'mail_user': "wangchenchen@babyfs.cn",  # 用send_from
         'mail_user_name': "王晨晨",  # 用send_from
-        'mail_user_pass': "Shasky2017",  # wangchenchen口令
+        'mail_user_pass': "******",  # wangchenchen口令
         # 接收，抄送列表。没有，给空列表
         'send_to': ['王晨晨<wangchenchen@babyfs.cn>'],
         'send_cc': ['王晨晨<wangchenchen@babyfs.cn>']
