@@ -49,7 +49,7 @@ from email.header import Header
 # 第三方 SMTP 服务
 mail_host="smtp.qiye.163.com"  #设置服务器
 mail_user="wangchenchen@babyfs.cn"    #用户名
-mail_pass="Shasky2017"   #口令
+mail_pass="*******"   #口令
 
 receivers = "wangchenchen@babyfs.cn"
 message = MIMEText("使用加密的SMTP协议测试下邮件吧", 'plain', 'utf-8')
