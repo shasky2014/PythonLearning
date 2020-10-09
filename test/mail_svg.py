@@ -45,7 +45,7 @@ mail_group = {
     # 发送者信息，登录验证
     'mail_user': "wangchenchen@babyfs.cn",  # 用send_from
     'mail_user_name': "王晨晨",  # 用send_from
-    'mail_user_pass': "Shasky2017",  # wangchenchen口令
+    'mail_user_pass': "*******",  # wangchenchen口令
     # 接收，抄送列表。没有，给空列表
     'send_to': ['王晨晨<wangchenchen@babyfs.cn>'],
     'send_cc': ['王晨晨<wangchenchen@babyfs.cn>', '王晨晨<249398363@qq.com>']
@@ -56,7 +56,7 @@ mail_group1 = {
     # 发送者信息，登录验证
     'mail_user': "249398363@qq.com",  # 用send_from
     'mail_user_name': "王晨晨",  # 用send_from
-    'mail_user_pass': "yimazaixian",  # wangchenchen口令
+    'mail_user_pass': "*******",  # wangchenchen口令
     # 接收，抄送列表。没有，给空列表
     'send_to': ['王晨晨<249398363@qq.com>'],
     'send_cc': ['王晨晨<249398363@qq.com>']
